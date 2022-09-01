@@ -42,7 +42,7 @@ const defaultMenu = {
 ┗━━━━━━━━━━━━━━━━⦂
 %readmore`.trimStart(),
   header: '╭━━━❰ %category ❱',
-  body: '┃ 🚬 %cmd %islimit %isPremium',
+  body: '┃ 🔐 %cmd %islimit %isPremium',
   footer: '╰━━━━━━━⦂\n',
   after: `
 𝐋𝐎9𝐌𝐀𝐍𝐄 𝐁𝐎𝐓 𝐈𝐍𝐂 |©𝐋𝐎9𝐌𝐌𝐌𝐀𝐍𝐄
