@@ -35,8 +35,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐀𝐫𝐜𝐭𝐢𝐱'
-global.author = '𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.'
+global.packname = 'لأزــ؏ـــــࢪ المــلــڪيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹;//!!;
+global.author = 'لأزــ؏ـــــࢪ المــلــكيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹.'
 
 global.multiplier = 69 // The higher, The harder levelup
 
